@@ -6,8 +6,11 @@
 }
 
 .mainTitle {
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 700px;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid darkolivegreen;
 }
 
 .recipieLink {
@@ -15,6 +18,11 @@
     background-color: darkolivegreen;
     color:beige;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    display: inline;
+    padding: 5px;
+    margin: 0 auto;
+    border: 2px solid beige;
 }
 
 .photo {
